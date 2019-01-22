@@ -1,0 +1,14 @@
+# Compiled Files
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Intellij
+.idea/
+*.iml
+*.iws
+.META-INF/
+*.MF
